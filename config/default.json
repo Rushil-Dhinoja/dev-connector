@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://rushil:rushil@devconnector-nehzu.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mytokenissecret",
+    "githubClientId": "fb47ab81ab08cc044296",
+    "githubSecret": "6169dc6a757c6a664bc381dafe9dbd97ccc82fa4"
+}
